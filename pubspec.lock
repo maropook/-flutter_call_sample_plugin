@@ -69,6 +69,15 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.4"
+  flutter_sample_plugin:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: HEAD
+      resolved-ref: bf3adc99e1d3e953fc82effaa2e6c5eb68ab21a6
+      url: "https://github.com/maropook/flutter_sample_plugin.git"
+    source: git
+    version: "0.0.1"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -172,3 +181,4 @@ packages:
     version: "2.1.1"
 sdks:
   dart: ">=2.16.2 <3.0.0"
+  flutter: ">=2.5.0"
